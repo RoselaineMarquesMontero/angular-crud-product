@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 5000.87
+    },
+    {
+      "id": 3,
+      "name": "Iphone 11",
+      "price": 900.29
+    },
+    {
+      "name": "Lapiz",
+      "price": "3.99",
+      "id": 4
+    },
+    {
+      "name": "Ipad",
+      "price": "1205.18",
+      "id": 5
+    },
+    {
+      "name": "Product to delete",
+      "price": "299.99",
+      "id": 6
+    },
+    {
+      "name": "Protector de pantallas",
+      "price": "3.00",
+      "id": 7
+    },
+    {
+      "name": "Cascos",
+      "price": 125.98,
+      "id": 8
+    },
+    {
+      "name": "Reloj",
+      "price": "2000",
+      "id": 9
+    },
+    {
+      "name": "Ratón",
+      "price": "20.99",
+      "id": 10
+    },
+    {
+      "name": "Water",
+      "price": "1.99",
+      "id": 11
+    }
+  ]
+}
