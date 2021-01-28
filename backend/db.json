@@ -3,7 +3,7 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 5000.87
+      "price": "5000.88"
     },
     {
       "id": 3,
@@ -49,6 +49,11 @@
       "name": "Water",
       "price": "1.99",
       "id": 11
+    },
+    {
+      "name": "Product Test",
+      "price": 125.98,
+      "id": 12
     }
   ]
 }
